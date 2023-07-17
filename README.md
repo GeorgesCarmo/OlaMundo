@@ -4,3 +4,8 @@
  Repositório criado durante a aula
 
  Essa linha eu adicionei diretamento no site!!
+
+# Linguagem Markdown
+
+**NEGRITO** | *ITALICO*
+
